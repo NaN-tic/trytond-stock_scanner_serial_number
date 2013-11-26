@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- The COPYRIGHT file at the top level of this repository contains the full
+     copyright notices and license terms. -->
+<data>
+    <xpath expr="//button[@name='scan']" position="before">
+        <label name="scanned_start_lot"/>
+        <field name="scanned_start_lot"/>
+        <label name="scanned_end_lot"/>
+        <field name="scanned_end_lot"/>
+    </xpath>
+</data>
